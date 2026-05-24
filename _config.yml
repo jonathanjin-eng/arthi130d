@@ -9,7 +9,7 @@ baseurl: "/arthi130d"
 author: "Gracie Veiga, Ashlyn Aguayo, Johnathan Mirones, Jonathan Jin"
 telar_theme: "trama" # Options: paisajes, neogranadina, santa-barbara, austin, trama, or custom
 logo: ""
-telar_language: "en"
+telar_language: en
 
 # Google Sheets Integration
 # See https://telar.org/docs/your-data/google-sheets/ for detailed setup instructions.
@@ -126,3 +126,6 @@ development-features:
     min_ready_viewers: 3
   skip_stories: false
   skip_collections: false
+email: ""
+story_key: 
+collection_mode: false
