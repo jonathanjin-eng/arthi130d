@@ -1,0 +1,5 @@
+step,object,x,y,zoom,page,question,answer,alt_text,layer1_button,layer1_content,layer2_button,layer2_content,clip_start,clip_end,loop
+paso,objeto,x,y,zoom,pagina,pregunta,respuesta,texto_alt,boton1,contenido1,boton2,contenido2,inicio_clip,fin_clip,bucle
+1,DSC_0140.jpg,0.5,0.5,1,,question,answer,,layer1_button,Moche_Vessel-step1-layer1.md,layer2_button,Moche_Vessel-step1-layer2.md,,,
+2,DSC_0140.jpg,0.5,0.5,1,,question1,answer,,,,,,,,
+3,DSC_0140.jpg,0.5,0.3,0.8,,How did the surface treatment and decoration create the vessel’s colors and design?,"The structure of the vessel was formed with terracotta, an iron-ontaining earthenware clay. The white-colored lines and neutral-red surface were likely achieved with slips, which are thin mixtures of clay and water applied before firing. The dark patches may come from firing conditions, an effect know as “fire clouding,” while the black wavy markings may be intentional designs, faded due to wear.",,,,,,,,
