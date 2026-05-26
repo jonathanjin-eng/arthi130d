@@ -1,0 +1,5 @@
+---
+title: "Fire clouding and organic pigment painting"
+---
+
+The dark markings and patches near the underside of the vessel are characteristic of fire clouding. Fire clouding happens when the ceramic comes into contact with another object or fuel during firing, creating a local low-oxygen environment, which leads to the incomplete oxidation of Fe₂O₃.. Contact with intense smoke and unburnt fuel can also deposit carbon onto the clay, further contributing to the dark discoloration. This is a result of how the Moche fired their ceramics, which involved placing the vessels in pits surrounded by burning organic material. Such methods put parts of the vessels in oxygen-deprived environments, often producing the fire-clouding effect. The black wavy striped markings, however, seem to be intentional and part of a design that has worn off with time. This may be the result of post-firing organic black pigment painting. This technique involved painting liquids from plants onto the vessel and carefully heating it over a fire, allowing the organic material to carbonize. These markings are less durable than slips, which accounts for their relatively faded appearance.
