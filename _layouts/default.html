@@ -27,7 +27,7 @@
 
   <!-- Custom CSS -->
   <link rel="stylesheet" href="{{ '/assets/css/telar.css' | relative_url }}?v={{ site.telar.version }}">
-  <link rel="stylesheet" href="/assets/css/custom.css">
+  <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
 
   {% if page.latex or page.has_latex or page.layout == "user-page" %}
     {% include katex.html %}
