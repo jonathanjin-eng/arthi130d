@@ -5,3 +5,7 @@ menu:
   - title_en: "Glossary"
     titulo_es: "Glossary"
     url: /glossary/
+  - title_en: "Bibliography"
+    titulo_es: "Bibliography"
+    url: /bibliography/
+    external: true
