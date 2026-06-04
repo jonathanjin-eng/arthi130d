@@ -9,14 +9,6 @@
   {% assign theme = site.data.defaults.themes.trama %}
 {% endunless %}
 
-/* custom Css */
-#panel-layer1-content{
-    justify-content: center;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
-
 @use 'responsive' as *;
 @use 'typography';
 @use 'layout';
@@ -66,4 +58,12 @@
   /* Fonts */
   --font-headings: {{ theme.fonts.headings | default: "'Space Grotesk', sans-serif" }};
   --font-body: {{ theme.fonts.body | default: "'Roboto Condensed', sans-serif" }};
+}
+
+/* custom Css */
+#panel-layer1-content{
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
