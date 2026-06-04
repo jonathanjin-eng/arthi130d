@@ -9,6 +9,14 @@
   {% assign theme = site.data.defaults.themes.trama %}
 {% endunless %}
 
+/* custom Css */
+#panel-layer1-content{
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
 @use 'responsive' as *;
 @use 'typography';
 @use 'layout';
