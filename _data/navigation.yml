@@ -9,3 +9,7 @@ menu:
     titulo_es: "Bibliography"
     url: /bibliography/
     external: true
+  - title_en: "About"
+    titulo_es: "About"
+    url: /about/
+    external: true
