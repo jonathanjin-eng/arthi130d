@@ -3,7 +3,9 @@ title: "Learn More"
 ---
 The fineline painted design on this Moche civilization stirrup-spout vessel appears to depict what may once have been an appendage of a lizard or reptilian figure, although years of wear and use have left only faint remnants visible on the surface. The faded outlines and discoloration make the image difficult to fully identify, but comparisons with similar Moche vessels suggest that reptilian imagery was likely intentional. After researching other examples of Moche ceramics, we found vessels with painted lizard-like motifs that closely resemble the remaining shapes and patterns on our piece. Lizards may have held symbolic meaning within Moche culture, potentially representing nature, regeneration, survival, or a connection to the spiritual world. The deterioration of the painted surface also provides evidence that the vessel was likely handled and used frequently rather than being purely decorative. Even though much of the original image has disappeared over time, the surviving traces still reveal the importance of painted symbolism and artistic detail in Moche ceramic traditions.
 ![Lizard_Example](/telar-content/objects/-Stirrupspoutjar--.jpg){lrg}
-Source: Stirrup Spout Jar- Red Lizards on Cream Slip. Peabody Museum of Archaeology and Ethnology. JSTOR, https://jstor.org/stable/community.15357603. Ceramic.
+**Figure 9:** Example Moche ceramic vessel with reptile design. Source: Stirrup Spout Jar- Red Lizards on Cream Slip. Peabody Museum of Archaeology and Ethnology. JSTOR, https://jstor.org/stable/community.15357603. Ceramic.
 ![Ceramic Head](/telar-content/objects/Head.jpg){lrg}
+**Figure 10:** Example Moche ceramic head vessel. Source: Fowler Museum at UCLA.
+
   
 
