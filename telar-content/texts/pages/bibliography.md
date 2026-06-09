@@ -2,6 +2,12 @@
 title: "Bibliography"
 ---
 
+<center>
+
+# Bibliography
+
+</center>
+
 :::bibliography
 Castellanos, Oscar, Carlos Rios, Miguel Ramos, and Eric Plaza. "A Comparative Study of Mineralogical Transformations in Fired Clays from the Laboyos Valley, Upper Magdalena Basin (Colombia)." *Boletín de Geología* 34, no. 1 (2012): 43 – 55.
 
