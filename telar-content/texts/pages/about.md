@@ -2,6 +2,11 @@
 title: About
 permalink: /about/
 ---
+<center>
+
+# About
+
+</center>
 
 Course: ARTHI 130D
 
