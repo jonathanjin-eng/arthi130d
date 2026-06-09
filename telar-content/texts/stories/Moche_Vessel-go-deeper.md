@@ -7,9 +7,11 @@ The vessel is primarily made of low-temperature fired terracotta with white and 
 :::carousel
 image: https://github.com/jonathanjin-eng/arthi130d/blob/main/telar-content/objects/DSC_0134.jpg?raw=true
 alt: DSC_0134
+caption: **Figure 7:** Moche ceramic vessel (view of cracked spout), North Coast, Peru. Source: UCSB ADA Museum.
 
 ---
 
 image: https://github.com/jonathanjin-eng/arthi130d/blob/main/telar-content/objects/DSC_0163.jpg?raw=true
 alt: DSC_0163
+caption: **Figure 8:** Moche ceramic vessel (bottom view), North Coast, Peru. Source: UCSB ADA Museum.
 :::
