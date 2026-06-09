@@ -4,7 +4,7 @@ permalink: /about/
 ---
 <center>
 
-# About
+About
 
 </center>
 
