@@ -4,7 +4,7 @@ title: "Bibliography"
 
 <center>
 
-# Bibliography
+Bibliography
 
 </center>
 
